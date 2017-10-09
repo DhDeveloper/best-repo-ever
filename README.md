@@ -2,5 +2,6 @@
 GIT Trailhead task
 This is good practice
 
-Merge conflict-I Again
-Merge CoNFLICT CREATED
+CHANGES TO THE FILE BRANCH-I
+CHANGES TO THE FILE BRANCH-II
+
